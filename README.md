@@ -1,5 +1,3 @@
-<!-- ## Hi there 👋 -->
-
 <div align="center">
   <a href="https://www.linkedin.com/in/thilakrajm/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -11,7 +9,7 @@
 
 ### 👩‍💻  About Me
 
-  - 🔭 I work as a Software Engineer III at <a href="https://vimeo.com/">Vimeo</a>. <br>
+  - 🔭 I work as a Software Engineer III at <a href="https://vimeo.com/">Vimeo</a>. I'm skilled at building large scale web/backend applications that serve millions of users daily and managing systems which query TBs of data.<br>
   - 📚 I'm passionate about distributed systems and databases. <br>
   - 💭 I aspire to explore the intersection of distributed systems and deep learning in the future 🚀. <br>
   - ⚡ Apart from coding, I enjoy cycling 🚴.
@@ -48,7 +46,7 @@
 ## 📈 Public Coding Profiles
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/thilak007?theme=dark&font=Noto%20Sans%20Soyombo&ext=heatmap)](https://leetcode.com/thilak007/)
-[![Codewars Stats](https://github.r2v.ch/codewars?user=thilak007&name=true&top_languages=true)](https://www.codewars.com/users/thilak007)
+[![Codewars Stats](https://github.r2v.ch/codewars?user=thilak007&name=true&top_languages=true&theme=dark)](https://www.codewars.com/users/thilak007)
 
 ## Open Source Contribution PRs
 

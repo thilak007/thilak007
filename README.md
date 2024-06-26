@@ -50,6 +50,6 @@
 
 ## Open Source Contribution PRs
 
-- [Openfga](https://openfga.dev/) : https://github.com/openfga/sample-stores/pull/23. <br><br>
+- [Openfga](https://openfga.dev/): https://github.com/openfga/sample-stores/pull/23. <br><br>
 Briefly, OpenFGA is a high performance and flexible authorization/permission system built for developers and inspired by Google Zanzibar. It is currently accepted into the Cloud Native Computing Foundation (CNCF). Ref: https://www.cncf.io/projects/openfga/
 

@@ -48,8 +48,9 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/thilak007?theme=dark&font=Noto%20Sans%20Soyombo&ext=heatmap)](https://leetcode.com/thilak007/)
 [![Codewars Stats](https://github.r2v.ch/codewars?user=thilak007&name=true&top_languages=true&theme=dark)](https://www.codewars.com/users/thilak007)
 
-## Open Source Contribution PRs
+## Open Source Contribution
 
-- [Openfga](https://openfga.dev/): https://github.com/openfga/sample-stores/pull/23. <br><br>
+- [Openfga](https://openfga.dev/) <br><br>
+  - Pull Request: https://github.com/openfga/sample-stores/pull/23.<br><br>
 Briefly, OpenFGA is a high performance and flexible authorization/permission system built for developers and inspired by Google Zanzibar. It is currently accepted into the Cloud Native Computing Foundation (CNCF). Ref: https://www.cncf.io/projects/openfga/
 

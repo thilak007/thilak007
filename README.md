@@ -76,6 +76,6 @@ Here are some ideas to get you started:
 ## 📈 Public Coding Profiles
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/thilak007?theme=dark&font=Noto%20Sans%20Soyombo&ext=heatmap)](https://leetcode.com/thilak007/)
-[![Codewars Stats](https://github.r2v.ch/codewars?user=thilak007&name=true&top_languages=true&theme=gradient)](https://www.codewars.com/users/thilak007)
+[![Codewars Stats](https://github.r2v.ch/codewars?user=thilak007&name=true&top_languages=true)](https://www.codewars.com/users/thilak007)
 ###
 

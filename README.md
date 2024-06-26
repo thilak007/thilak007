@@ -24,13 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thilak007.thilak007&"  />
-</div>
-
-###
-
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hey 👋, I'm Thilak Raj M</h1>
 
 ###
 
@@ -38,7 +32,12 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Thilak Raj M.<br><br>- 🔭 I’m working as a Software Engineer III at Vimeo<br>- 📚 I'm currently learning about distributed systems and databases.<br>- ⚡ Apart from coding, I enjoy cycling 🚴</p>
+<p align="left"> 
+  - 🔭 I’m working as a Software Engineer III at <a href="https://vimeo.com/">Vimeo</a>. <br>
+  - 📚 I'm passionate about distributed systems and databases. <br>
+  - 💭 I'm would like to someday explore on the intersecting fields of distributed systems and deep learning. <br>
+  - ⚡ Apart from coding, I enjoy cycling 🚴.
+</p>
 
 ###
 
@@ -74,7 +73,7 @@ Here are some ideas to get you started:
   
 </div>
 
-## Public Coding Profiles
+## 📈 Public Coding Profiles
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/thilak007?theme=dark&font=Noto%20Sans%20Soyombo&ext=heatmap)](https://leetcode.com/thilak007/)
 [![Codewars Stats](https://github.r2v.ch/codewars?user=thilak007&name=true&top_languages=true&theme=gradient)](https://www.codewars.com/users/thilak007)

@@ -1,20 +1,4 @@
-<!-- ## Hi there 👋
-
-<!--
-**thilak007/thilak007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-###
+<!-- ## Hi there 👋 -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thilakrajm/">
@@ -22,28 +6,18 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-###
 
 <h1 align="center">Hey 👋, I'm Thilak Raj M</h1>
 
-###
+### 👩‍💻  About Me
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left"> 
   - 🔭 I work as a Software Engineer III at <a href="https://vimeo.com/">Vimeo</a>. <br>
   - 📚 I'm passionate about distributed systems and databases. <br>
   - 💭 I aspire to explore the intersection of distributed systems and deep learning in the future 🚀. <br>
   - ⚡ Apart from coding, I enjoy cycling 🚴.
-</p>
 
-###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -65,8 +39,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
-###
-
 ## 📊 Github Stats
 <div style="display:inline-flex;">
   <img src="https://streak-stats.demolab.com?user=thilak007&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -77,5 +49,9 @@ Here are some ideas to get you started:
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/thilak007?theme=dark&font=Noto%20Sans%20Soyombo&ext=heatmap)](https://leetcode.com/thilak007/)
 [![Codewars Stats](https://github.r2v.ch/codewars?user=thilak007&name=true&top_languages=true)](https://www.codewars.com/users/thilak007)
-###
+
+## Open Source Contribution PRs
+
+- [Openfga](https://openfga.dev/) : https://github.com/openfga/sample-stores/pull/23. <br><br>
+Briefly, OpenFGA is a high performance and flexible authorization/permission system built for developers and inspired by Google Zanzibar. It is currently accepted into the Cloud Native Computing Foundation (CNCF). Ref: https://www.cncf.io/projects/openfga/
 

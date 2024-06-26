@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ###
 
 <p align="left"> 
-  - 🔭 I’m working as a Software Engineer III at <a href="https://vimeo.com/">Vimeo</a>. <br>
+  - 🔭 I work as a Software Engineer III at <a href="https://vimeo.com/">Vimeo</a>. <br>
   - 📚 I'm passionate about distributed systems and databases. <br>
   - 💭 I'm would like to someday explore on the intersecting fields of distributed systems and deep learning. <br>
   - ⚡ Apart from coding, I enjoy cycling 🚴.

@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋
 
 <!--
 **thilak007/thilak007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,16 +68,15 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
+## 📊 Github Stats
 <div style="display:inline-flex;">
-  <img src="https://github.r2v.ch/codewars?user=thilak007&name=true&top_languages=true&stroke=blue&theme=gradient_midnight_puple" />
   <img src="https://streak-stats.demolab.com?user=thilak007&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  
 </div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/thilak007?theme=dark&font=Noto%20Sans%20Soyombo&ext=heatmap)
+## Public Coding Profiles
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/thilak007?theme=dark&font=Noto%20Sans%20Soyombo&ext=heatmap)](https://leetcode.com/thilak007/)
+[![Codewars Stats](https://github.r2v.ch/codewars?user=thilak007&name=true&top_languages=true&theme=gradient)](https://www.codewars.com/users/thilak007)
 ###
 

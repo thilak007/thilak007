@@ -9,7 +9,7 @@
 
 ### 👩‍💻  About Me
 
-  - 🔭 I work as a Software Engineer III at <a href="https://vimeo.com/">Vimeo</a>. I'm skilled at building large scale web/backend applications that serve millions of users daily and managing systems which query TBs of data.<br>
+  - 🔭 I'm an incoming graduate student at the Computer Sciences Dept., University of Wisconsin Madison. I currently work as a Software Engineer III at <a href="https://vimeo.com/">Vimeo</a>. I'm skilled at building large scale web/backend applications that serve millions of users daily and managing systems which query TBs of data.<br>
   - 📚 I'm passionate about distributed systems and databases. <br>
   - 💭 I aspire to explore the intersection of distributed systems and deep learning in the future 🚀. <br>
   - ⚡ Apart from coding, I enjoy cycling 🚴.

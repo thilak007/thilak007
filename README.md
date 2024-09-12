@@ -5,7 +5,7 @@
 </div>
 
 
-<h1 align="center">Hey 👋, I'm Thilak Raj M</h1>
+<h1 align="center">Hey 👋, I'm Thilak Raj Murugan</h1>
 
 ### 👩‍💻  About Me
 

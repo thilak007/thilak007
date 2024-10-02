@@ -9,9 +9,9 @@
 
 ### 👩‍💻  About Me
 
-  - 🔭 I'm a graduate student at the Computer Sciences Dept., <a href="https://www.cs.wisc.edu/">University of Wisconsin-Madison</a>. I previously worked as a Software Engineer III at <a href="https://vimeo.com/">Vimeo</a>. I'm skilled at building large scale web/backend applications that serve millions of users daily. I can manage systems that query TBs of data.<br>
+  - 🔭 I'm a graduate student at the Computer Sciences Dept., <a href="https://www.cs.wisc.edu/">University of Wisconsin-Madison</a>. I previously worked as a Software Engineer III at <a href="https://vimeo.com/">Vimeo</a>. I'm skilled at building large-scale web/backend applications that serve millions of users daily. I can manage systems that query TBs of data.<br>
   - 📚 I'm passionate about distributed systems and databases. <br>
-  - 💭 I aspire to explore the intersection of distributed systems and deep learning in the future 🚀. <br>
+  - 💭 I can build Computer vision and Speech based AI applications. I aspire to explore the intersection of distributed systems and deep learning in the future 🚀. <br>
   - ⚡ Apart from coding, I enjoy cycling 🚴.
 
 
@@ -37,16 +37,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
-## 📊 Github Stats
-<div style="display:inline-flex;">
-  <img src="https://streak-stats.demolab.com?user=thilak007&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  
-</div>
-
 ## 📈 Public Coding Profiles
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/thilak007?theme=dark&font=Noto%20Sans%20Soyombo&ext=heatmap)](https://leetcode.com/thilak007/)
 [![Codewars Stats](https://github.r2v.ch/codewars?user=thilak007&name=true&top_languages=true&theme=dark)](https://www.codewars.com/users/thilak007)
+
+## 📊 Github Stats
+<div style="display:inline-flex;">
+  <img src="https://streak-stats.demolab.com?user=thilak007&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ## Open Source Contribution
 

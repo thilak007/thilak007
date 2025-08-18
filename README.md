@@ -9,7 +9,7 @@
 
 ### 👩‍💻  About Me
 
-  - 🔭 I'm a graduate student at the Computer Sciences Dept., <a href="https://www.cs.wisc.edu/">University of Wisconsin-Madison</a>. I previously worked as a Software Engineer III at <a href="https://vimeo.com/">Vimeo</a>. I'm skilled at building large-scale web/backend applications that serve millions of users daily. I can manage systems that query TBs of data.<br>
+  - 🔭 I'm a graduate student at the Computer Sciences Dept., <a href="https://www.cs.wisc.edu/">University of Wisconsin-Madison</a>. I previously worked as a Software Engineer III at <a href="https://vimeo.com/">Vimeo</a> and have 5+ years of Software Engineering experience. I'm skilled at building large-scale web/backend applications that serve millions of users daily. I can manage systems that query TBs of data.<br>
   - 📚 I'm passionate about distributed systems and databases. <br>
   - 💭 I can build Computer vision and Speech based AI applications. I aspire to explore the intersection of distributed systems and deep learning in the future 🚀. <br>
   - ⚡ Apart from coding, I enjoy cycling 🚴.

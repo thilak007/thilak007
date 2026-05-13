@@ -9,9 +9,10 @@
 
 ### 👨🏻‍💻 About Me
 
-  - 🔭 I'm a graduate student at the Computer Sciences Dept., <a href="https://www.cs.wisc.edu/">University of Wisconsin-Madison</a>. I previously worked as a Software Engineer III at <a href="https://vimeo.com/">Vimeo</a> and have 5+ years of Software Engineering experience. I'm skilled at building large-scale web/backend applications that serve millions of users daily. I can manage systems that query TBs of data.<br>
-  - 📚 I'm passionate about distributed systems and databases. <br>
-  - 💭 I can build Computer vision and Speech based AI applications. I'm currently exploring the intersection of distributed systems, large scale data infrastructure and deep learning 🚀. <br>
+  - 🔭  I'm a Software Engineer with 5+ years of experience in distributed systems and ML Infrastructure. Previously, I worked as a Software Engineer III at <a href="https://vimeo.com/">Vimeo</a>. I'm skilled at building large-scale web/backend applications that serve millions of users daily. I can manage systems that query TBs of data.<br>
+  - 📚 I'm passionate about distributed systems, large scale data (OLTP & OLAP), ML infrastructure. I hold a MS degree in Data Engineering from the Computer Sciences Dept., <a href="https://www.cs.wisc.edu/">University of Wisconsin-Madison</a>.<br>
+  - 💭 I love to work on problems at the intersection of distributed systems, large scale data infrastructure and multi-modal AI infrastructure 🚀. <br>
+  - 🪵 Checkout my work on building a [distributed key value store](https://github.com/thilak007/kv-store) using raft consensus algorithm for replication. 
   - ⚡ Apart from coding, I enjoy cycling 🚴.
 
 
